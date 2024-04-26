@@ -21,7 +21,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 
 
-![imag](/assets/img/orthoTriangle.png)
+![imag](https://github.com/burakayy7/mathdoc5/blob/master/assets/img/orthoTriangle.png)
 
 Here's a table:
 
